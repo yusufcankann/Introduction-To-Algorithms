@@ -5,4 +5,4 @@ Homework1 -> Handwritten
 
 Homework2 -> Handwritten + Python
 
-Midterm(TakeHome) Exam
+Midterm(TakeHome) Exam -> Handwritten + Python
