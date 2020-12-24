@@ -6,3 +6,5 @@ Homework1 -> Handwritten
 Homework2 -> Handwritten + Python
 
 Midterm(TakeHome) Exam -> Handwritten + Python
+
+Homework2 -> Handwritten + Python
