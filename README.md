@@ -8,3 +8,9 @@ Homework2 -> Handwritten + Python
 Midterm(TakeHome) Exam -> Handwritten + Python
 
 Homework3 -> Handwritten + Python
+
+Homework4 -> Handwritten
+
+Homework5 -> Handwritten + Python
+
+Final -> Handwritten + Python
