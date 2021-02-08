@@ -5,7 +5,7 @@ Homework1 -> Complexity Analysis
 
 Homework2 -> Complexity AnalysisRecurrence Relation
 
-Midterm Exam -> TakeHome
+Midterm -> TakeHome
 
 Homework3 -> Recurrence Relation
 
