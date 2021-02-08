@@ -1,16 +1,16 @@
 # Introduction-To-Algorithms
 Gebze Technical University 2020 Introduction to Algorithms Course
 
-Homework1 -> Handwritten
+Homework1 -> Complexity Analysis
 
-Homework2 -> Handwritten + Python
+Homework2 -> Complexity AnalysisRecurrence Relation
 
-Midterm(TakeHome) Exam -> Handwritten + Python
+Midterm Exam -> TakeHome
 
-Homework3 -> Handwritten + Python
+Homework3 -> Recurrence Relation
 
-Homework4 -> Handwritten
+Homework4 -> Brute Force, Decrease and Conquer, Divide and Conquer, Decrease by Half Algorithms
 
-Homework5 -> Handwritten + Python
+Homework5 -> Dynamic Programming
 
-Final(TakeHome) -> Handwritten + Python
+Final -> TakeHome
